@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+*{
+    font-family: Outfit;
+}
+
+.placeholer-color{
+    color:#e0e0e0;
+    font-weight: 300;
+}
+
+@keyframes loadingBar {
+  from { width: 0%; }
+  to { width: 100%; }
+}
+
