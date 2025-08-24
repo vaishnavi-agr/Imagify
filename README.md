@@ -13,7 +13,6 @@ Imagify is a full-stack AI image generation platform built using the MERN stack.
 - 🧮 Credit-based system to limit and manage image generation
 - 🖍️ Image text annotation with customizable font, size, and color
 - ✉️ Role-based sharing with email access control
-- 📂 Separate admin and user dashboards
 
 ---
 
